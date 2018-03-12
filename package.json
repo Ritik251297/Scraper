@@ -1,0 +1,24 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "scrapper for movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritik251297/scrapper.git"
+  },
+  "author": "ritik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritik251297/scrapper/issues"
+  },
+  "homepage": "https://github.com/Ritik251297/scrapper#readme",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
